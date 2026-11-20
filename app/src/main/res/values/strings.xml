@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Explore China</string>
+    <string name="app_title">Explore China</string>
+    <string name="app_subtitle">Chinese Culture Attractions</string>
+
+    <!-- Great Wall -->
+    <string name="great_wall_title">Great Wall</string>
+    <string name="great_wall_description">A series of fortifications made of stone, brick, tamped earth and wood.</string>
+    <string name="great_wall_location">Beijing, China</string>
+    <string name="great_wall_ticket">CNY 40</string>
+    <string name="great_wall_hours">08:00 - 17:00</string>
+    <string name="great_wall_cultural">Built over 2,000 years ago, the Great Wall is one of the most impressive architectural feats in human history, stretching over 13,000 miles across northern China.</string>
+
+    <!-- Forbidden City -->
+    <string name="forbidden_city_title">Forbidden City</string>
+    <string name="forbidden_city_description">A vast imperial palace complex in central Beijing, China.</string>
+    <string name="forbidden_city_location">Beijing, China</string>
+    <string name="forbidden_city_ticket">CNY 60</string>
+    <string name="forbidden_city_hours">08:30 - 17:00</string>
+    <string name="forbidden_city_cultural">The Forbidden City served as home to Chinese emperors for nearly 500 years and contains nearly 1,000 buildings with intricate traditional Chinese architecture.</string>
+
+    <!-- Summer Palace -->
+    <string name="summer_palace_title">Summer Palace</string>
+    <string name="summer_palace_description">A vast ensemble of lakes, gardens and palaces in Beijing.</string>
+    <string name="summer_palace_location">Beijing, China</string>
+    <string name="summer_palace_ticket">CNY 30</string>
+    <string name="summer_palace_hours">06:30 - 18:00</string>
+    <string name="summer_palace_cultural">Built in 1750, it is the largest and best-preserved imperial park in China, showcasing traditional Chinese garden design and landscaping.</string>
+
+    <!-- Terracotta Army -->
+    <string name="terracotta_army_title">Terracotta Army</string>
+    <string name="terracotta_army_description">A collection of terracotta sculptures depicting the armies of Qin Shi Huang.</string>
+    <string name="terracotta_army_location">Xi\'an, China</string>
+    <string name="terracotta_army_ticket">CNY 150</string>
+    <string name="terracotta_army_hours">08:30 - 17:00</string>
+    <string name="terracotta_army_cultural">Discovered in 1974, this ancient terracotta army was buried with the first Emperor of China to protect him in the afterlife, containing over 8,000 soldiers.</string>
+
+    <!-- West Lake -->
+    <string name="west_lake_title">West Lake</string>
+    <string name="west_lake_description">A freshwater lake in the historic city of Hangzhou, Zhejiang Province.</string>
+    <string name="west_lake_location">Hangzhou, China</string>
+    <string name="west_lake_ticket">Free</string>
+    <string name="west_lake_hours">Open 24 hours</string>
+    <string name="west_lake_cultural">Known for its picturesque scenery and romantic landscape, West Lake has been featured in Chinese poetry and painting for over 1,000 years.</string>
+
+    <!-- Temple of Heaven -->
+    <string name="temple_heaven_title">Temple of Heaven</string>
+    <string name="temple_heaven_description">An imperial complex of religious buildings situated in southern Beijing.</string>
+    <string name="temple_heaven_location">Beijing, China</string>
+    <string name="temple_heaven_ticket">CNY 35</string>
+    <string name="temple_heaven_hours">06:00 - 21:00</string>
+    <string name="temple_heaven_cultural">Built during the Ming Dynasty, emperors performed sacred rituals here to seek blessings from heaven, representing the connection between heaven and earth in Chinese philosophy.</string>
+
+    <!-- The Bund -->
+    <string name="the_bund_title">The Bund</string>
+    <string name="the_bund_description">A waterfront area in the Huangpu District of Shanghai.</string>
+    <string name="the_bund_location">Shanghai, China</string>
+    <string name="the_bund_ticket">Free</string>
+    <string name="the_bund_hours">Open 24 hours</string>
+    <string name="the_bund_cultural">A historic riverfront promenade showcasing a unique blend of Chinese and Western architecture from the early 20th century colonial era.</string>
+
+    <!-- Zhangjiajie -->
+    <string name="zhangjiajie_title">Zhangjiajie National Forest Park</string>
+    <string name="zhangjiajie_description">A national forest park in Hunan Province featuring quartz sandstone pillars.</string>
+    <string name="zhangjiajie_location">Hunan Province, China</string>
+    <string name="zhangjiajie_ticket">CNY 248</string>
+    <string name="zhangjiajie_hours">08:00 - 17:00</string>
+    <string name="zhangjiajie_cultural">Famous for its towering quartzite sandstone pillars, this scenic area inspired the landscapes in the film Avatar and represents the natural beauty of Chinese mountains.</string>
+
+    <!-- Potala Palace -->
+    <string name="potala_palace_title">Potala Palace</string>
+    <string name="potala_palace_description">A fortress-palace situated on Red Mountain in Lhasa, Tibet.</string>
+    <string name="potala_palace_location">Lhasa, Tibet</string>
+    <string name="potala_palace_ticket">CNY 200</string>
+    <string name="potala_palace_hours">09:00 - 16:00</string>
+    <string name="potala_palace_cultural">Built in the 7th century, Potala Palace served as the winter residence of Tibetan Buddhist leaders and represents the pinnacle of Tibetan architectural achievement with 13 stories and over 1,000 rooms.</string>
+
+    <!-- Detail Page Labels -->
+    <string name="back_button">← Back</string>
+    <string name="location_label">Location</string>
+    <string name="ticket_label">Ticket Price</string>
+    <string name="hours_label">Opening Hours</string>
+    <string name="description_label">Description</string>
+    <string name="cultural_info_label">Cultural Information</string>
+    <string name="attraction_image">Attraction Image</string>
+</resources>

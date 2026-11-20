@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">探索中国</string>
+    <string name="app_title">探索中国</string>
+    <string name="app_subtitle">中国文化景观</string>
+
+    <!-- Great Wall -->
+    <string name="great_wall_title">长城</string>
+    <string name="great_wall_description">由石、砖、土和木材建成的一系列防御工事。</string>
+    <string name="great_wall_location">北京，中国</string>
+    <string name="great_wall_ticket">40元</string>
+    <string name="great_wall_hours">08:00 - 17:00</string>
+    <string name="great_wall_cultural">建于2000多年前，长城是人类历史上最令人印象深刻的建筑杰作之一，绵延超过13000英里。</string>
+
+    <!-- Forbidden City -->
+    <string name="forbidden_city_title">故宫</string>
+    <string name="forbidden_city_description">位于北京市中心的庞大皇宫建筑群。</string>
+    <string name="forbidden_city_location">北京，中国</string>
+    <string name="forbidden_city_ticket">60元</string>
+    <string name="forbidden_city_hours">08:30 - 17:00</string>
+    <string name="forbidden_city_cultural">故宫是中国皇帝近500年的住所，拥有近1000座建筑，展现了精美的传统中国建筑。</string>
+
+    <!-- Summer Palace -->
+    <string name="summer_palace_title">颐和园</string>
+    <string name="summer_palace_description">位于北京的湖泊、花园和宫殿的广阔集合。</string>
+    <string name="summer_palace_location">北京，中国</string>
+    <string name="summer_palace_ticket">30元</string>
+    <string name="summer_palace_hours">06:30 - 18:00</string>
+    <string name="summer_palace_cultural">建于1750年，是中国最大、保存最完好的皇家园林，展现了传统的中国园林设计。</string>
+
+    <!-- Terracotta Army -->
+    <string name="terracotta_army_title">兵马俑</string>
+    <string name="terracotta_army_description">代表秦始皇军队的兵马俑雕塑集合。</string>
+    <string name="terracotta_army_location">西安，中国</string>
+    <string name="terracotta_army_ticket">150元</string>
+    <string name="terracotta_army_hours">08:30 - 17:00</string>
+    <string name="terracotta_army_cultural">发现于1974年，这支古老的兵马俑军队被埋在秦始皇身边以在来世保护他，包含超过8000个士兵。</string>
+
+    <!-- West Lake -->
+    <string name="west_lake_title">西湖</string>
+    <string name="west_lake_description">位于历史名城杭州浙江省的淡水湖。</string>
+    <string name="west_lake_location">杭州，中国</string>
+    <string name="west_lake_ticket">免费</string>
+    <string name="west_lake_hours">全天开放</string>
+    <string name="west_lake_cultural">以其风景如画和浪漫的景观而闻名，西湖在1000多年的中国诗歌和绘画中都有所描绘。</string>
+
+    <!-- Temple of Heaven -->
+    <string name="temple_heaven_title">天坛</string>
+    <string name="temple_heaven_description">位于北京南部的宗教建筑物皇家建筑群。</string>
+    <string name="temple_heaven_location">北京，中国</string>
+    <string name="temple_heaven_ticket">35元</string>
+    <string name="temple_heaven_hours">06:00 - 21:00</string>
+    <string name="temple_heaven_cultural">建于明朝，皇帝在此进行神圣仪式以寻求天的祝福，代表了中国哲学中天地之间的联系。</string>
+
+    <!-- The Bund -->
+    <string name="the_bund_title">外滩</string>
+    <string name="the_bund_description">位于上海黄浦区的滨水区。</string>
+    <string name="the_bund_location">上海，中国</string>
+    <string name="the_bund_ticket">免费</string>
+    <string name="the_bund_hours">全天开放</string>
+    <string name="the_bund_cultural">一个历史悠久的河滨长廊，展现了20世纪早期殖民地时代中西建筑的独特融合。</string>
+
+    <!-- Zhangjiajie -->
+    <string name="zhangjiajie_title">张家界国家森林公园</string>
+    <string name="zhangjiajie_description">位于湖南省、以石英砂岩柱体为特色的国家森林公园。</string>
+    <string name="zhangjiajie_location">湖南省，中国</string>
+    <string name="zhangjiajie_ticket">248元</string>
+    <string name="zhangjiajie_hours">08:00 - 17:00</string>
+    <string name="zhangjiajie_cultural">以其高耸的石英砂岩柱而闻名，这一景区激发了电影《阿凡达》中的风景设计，代表了中国山脉的自然美。</string>
+
+    <!-- Potala Palace -->
+    <string name="potala_palace_title">布达拉宫</string>
+    <string name="potala_palace_description">位于拉萨红山上的堡垒宫殿。</string>
+    <string name="potala_palace_location">拉萨，西藏</string>
+    <string name="potala_palace_ticket">200元</string>
+    <string name="potala_palace_hours">09:00 - 16:00</string>
+    <string name="potala_palace_cultural">建于7世纪，布达拉宫是藏传佛教领袖的冬宫，代表了藏族建筑的最高成就，拥有13层和超过1000个房间。</string>
+
+    <!-- Detail Page Labels -->
+    <string name="back_button">← 返回</string>
+    <string name="location_label">位置</string>
+    <string name="ticket_label">票价</string>
+    <string name="hours_label">开放时间</string>
+    <string name="description_label">描述</string>
+    <string name="cultural_info_label">文化信息</string>
+    <string name="attraction_image">景点图片</string>
+</resources>

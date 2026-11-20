@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_red">#DC143C</color>
+    <color name="primary_gold">#FFD700</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="splash_background">#FFF8DC</color>
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#666666</color>
+</resources>
